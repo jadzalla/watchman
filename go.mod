@@ -11,7 +11,7 @@ require (
 	github.com/gorilla/mux v1.7.4
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/lopezator/migrator v0.3.0
-	github.com/mattn/go-sqlite3 v1.14.0
+	github.com/mattn/go-sqlite3/v2/v2 v2.0.6
 	github.com/moov-io/base v0.11.0
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/ory/dockertest/v3 v3.6.0
